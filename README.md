@@ -1,2 +1,2 @@
 # SmartPick
-ArmPi Pro with ROS
+ArmPi Pro with ROS, SmartPick is a ROS-based robotic arm system powered by the ArmPi Pro. It uses real-time camera vision and intelligent object tracking to identify red and blue cubes on a workspace and automatically sort them by color — red cubes are placed to the left, and blue cubes to the right. The project is designed for industrial automation applications and robotics education.
