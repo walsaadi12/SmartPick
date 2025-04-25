@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>intelligent_grasp</name>
+  <version>0.0.0</version>
+  <description>The intelligent_grasp package</description>
+
+  <maintainer email="youremail@domain.com">Your Name</maintainer>
+
+  <license>TODO</license>
+
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>cv_bridge</depend>
+  <depend>image_transport</depend>
+  <build_depend>message_generation</build_depend>
+  <exec_depend>message_runtime</exec_depend>
+</package>
